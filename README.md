@@ -8,9 +8,10 @@
 
 ## Quick about me:
 - Just a normal 16-year-old going through life.  
-- Coding is a hobby, so I never really take it seriously unless someone asks me to make something — which will probably be another half-assed effort by me.
+ don’t code out of passion. I do it when I’m paid, pestered, or pissed off. It’s rarely my best, but still cleaner than whatever Frankenstein mess ChatGPT warriors cook up after three coffee-fueled all-nighters.
 
----
+
+- -
 
 ## Quick story on how I started coding:
 
