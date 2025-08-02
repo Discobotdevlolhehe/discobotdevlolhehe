@@ -11,7 +11,7 @@
  don’t code out of passion. I do it when I’m paid, pestered, or pissed off. It’s rarely my best, but still cleaner than whatever Frankenstein mess ChatGPT warriors cook up after three coffee-fueled all-nighters.
 
 
-- -
+- 
 
 ## Quick story on how I started coding:
 
