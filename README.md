@@ -57,3 +57,7 @@ Just by me a coffee and hmu on [IG or smth](https://instagram.com/last._entity)
 ---
 
 If you want, I can help you add badges, or a fun “projects” section listing a few repos with weird descriptions?
+
+---
+
+ps: If all this sounds cooler than it is, don’t worry. I spend most days blankly staring at a terminal, Googling the same error five times in a row, and still somehow end up with the wrong fix anyway.
